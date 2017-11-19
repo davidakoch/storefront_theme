@@ -3,11 +3,16 @@
  Theme URI:    http://example.com/twenty-fifteen-child/
  Description:  Child theme based on Storefront theme
  Author:       David Koch
- Author URI:   http://www.davidakoch.net/portfolio/
- Template:     Storefront
+ Author URI:   http://www.davidakoch.net
+ Template:     storefront
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         woocommerce
  Text Domain:  storefront-child
 */
+
+.site-branding {
+	width: 250px;
+	background-color: red;
+}
