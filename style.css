@@ -17,11 +17,11 @@
 }
 
 #wrench-image {
-	display: inline;
-	width: 75px;
-	height: 75px;
-	background: url(wrench75.jpg);
+	display: inline-block;
+	width: 150px;
+	height: 150px;
 	margin-left: 50px; 
+	background: url(wrench150.jpg);
 }
 
 .col-full {
@@ -30,6 +30,15 @@
 
 .site-branding {
 	width: 100% !important;
+}
+
+.site-content {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.entry-meta {
+	display: none; 
 }
 
 .site-footer {
