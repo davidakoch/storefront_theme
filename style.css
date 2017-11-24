@@ -12,6 +12,14 @@
  Text Domain:  storefront-child
 */
 
+#masthead {
+	background-color: #d2e2ef;
+}
+
 .site-branding {
 	width: 50% !important;
+}
+
+.site-footer {
+	background-color: #d2e2ef
 }
