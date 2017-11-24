@@ -16,8 +16,20 @@
 	background-color: #d2e2ef;
 }
 
+#wrench-image {
+	display: inline;
+	width: 75px;
+	height: 75px;
+	background: url(wrench75.jpg);
+	margin-left: 50px; 
+}
+
+.col-full {
+	display: inline-block; 
+}
+
 .site-branding {
-	width: 50% !important;
+	width: 100% !important;
 }
 
 .site-footer {
