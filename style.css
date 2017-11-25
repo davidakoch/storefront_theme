@@ -25,12 +25,24 @@
 	background: url(wrench150.jpg);
 }
 
+#wrench-image-2 {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin-left: 50px; 
+	background: url(wrench150_2.jpg);
+}
+
 .col-full {
 	display: inline-block; 
 }
 
 .site-branding {
 	width: 100% !important;
+}
+
+.header-widget-region {
+	margin-left: 100px; 
 }
 
 .site-content {
@@ -40,6 +52,10 @@
 
 .entry-meta {
 	display: none; 
+}
+
+.entry-content {
+	width: 100% !important;
 }
 
 .site-footer {

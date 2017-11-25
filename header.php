@@ -46,6 +46,7 @@
 			do_action( 'storefront_header' ); ?>
 
 		</div>
+		<div id="wrench-image-2"></div>
 	</header><!-- #masthead -->
 
 	<?php
