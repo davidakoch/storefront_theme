@@ -25,13 +25,11 @@
 	display: inline-block;
 	width: 150px;
 	height: 150px;
-	margin-left: 50px; 
 	background: url(wrench150.jpg);
 }
 
 .col-full {
 	display: inline-block; 
-	margin-right: -75px;
 }
 
 #wrench-image-2 {
@@ -46,11 +44,12 @@
 }
 
 .header-widget-region {
-	margin-left: 100px; 
+	float: right;
+	margin-right: 250px; 
 }
 
 .site-content {
-	width: 80%;
+	width: 70%;
 	margin: 0 auto;
 }
 
