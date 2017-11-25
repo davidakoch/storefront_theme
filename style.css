@@ -17,6 +17,10 @@
 	margin-bottom: 0px; 
 }
 
+#shapiro_tools {
+	text-align: center;
+}
+
 #wrench-image {
 	display: inline-block;
 	width: 150px;
@@ -25,16 +29,16 @@
 	background: url(wrench150.jpg);
 }
 
+.col-full {
+	display: inline-block; 
+	margin-right: -75px;
+}
+
 #wrench-image-2 {
 	display: inline-block;
 	width: 150px;
 	height: 150px;
-	margin-left: 50px; 
 	background: url(wrench150_2.jpg);
-}
-
-.col-full {
-	display: inline-block; 
 }
 
 .site-branding {
